@@ -1,0 +1,147 @@
+1:-
+<html>
+ <head>
+   <tittle>iwt</tittle>
+   <style>
+        h1{
+          color:blue;
+          text-align:center;
+          }
+       #para{
+color:red;
+font-size:30px;
+font-family:courler;
+}
+.font{
+color:orange;
+font-size:30px;
+font-family:'time New roman';
+}
+</style>
+</head>
+<body style="background-color:lightblue;"
+<b1>iwt</b1>
+<p id ="para">internet and web technologies</p>
+<h1>e-commeerce<h1>
+<p style="color:red;font-size:30px;
+font-family:bradely hand ITC;
+text-align:center;">
+electronic commerce is buying and selling of goads
+</p>
+<h1>e-governance</h1>
+<p class="font">electronic governace is the application technology for delivering
+govt services</p>
+</body>
+</html>
+
+2:-
+<html>
+ <head>
+    <tittle>sum and average</tittle>
+</head>
+<body>
+<script>
+var val,sum=0,count=0;
+while(val!=0)
+{
+val=parseFloat(prompt("enter a values"));
+sum=sum+val;
+count++;
+}
+alert("sum="+sum);
+alert("count="+count);
+avg=sum/(count-1);
+alert("average="+avg);
+</script>
+</body>
+</html>
+
+3:-
+<html>
+<head>
+<tittle>square and cube</tittle>
+</head>
+<body>
+<script>
+str="num square cube";
+for(num=5;num<=15;num++)
+{
+square=num*num;
+cube=num*num*num;
+str=str+"\n"+num+" "+square+" "+cube;
+}
+alert(str);
+</script>
+</body>
+</html>
+
+4:-
+<html>
+<head>
+<tittle>
+sum of numbers
+<tittle>
+<body>
+<script>
+function sum(n)
+{
+sum=0;
+for(i=1;i<=n;i++)
+   sum=sum+i;
+return sum;
+}
+n=prompt("enter n value:")
+sum_n=sum(n);
+alert(sum_n)
+</script>
+</body>
+</html>
+
+5:-
+<html>
+<head>
+<tittle>javascript</tittle>
+</head>
+<body>
+<script>
+ n = prompt('Enter a positive integer: ');
+
+function factorial(n) {
+  if (n == 0) {
+    return 1;
+  }
+  else {
+    return n * factorial(n - 1);
+  }
+}
+alert(factorial(n));
+</script>
+</body>
+</html>
+
+6:-
+<html>
+<head>
+<tittle>
+prg6
+</tittle>
+</head>
+<body>
+<script>
+ n=prompt("enter a valaue:");
+f1=0;
+f2=1;
+document.write(f1," ",f2);
+for(i=3;i<=n;i++)
+{
+f3=f2+f1;
+document.write(" ",f3);
+f1=f2;
+f2=f3;
+}
+</script>
+</body>
+</html>
+
+   
+
