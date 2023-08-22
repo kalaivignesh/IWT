@@ -1,4 +1,4 @@
-1:-
+1:-CSS
 <html>
  <head>
    <tittle>iwt</tittle>
@@ -34,7 +34,7 @@ govt services</p>
 </body>
 </html>
 
-2:-
+2:-SUM AND AVERAGE
 <html>
  <head>
     <tittle>sum and average</tittle>
@@ -56,7 +56,7 @@ alert("average="+avg);
 </body>
 </html>
 
-3:-
+3:-SQUARE AND CUBE
 <html>
 <head>
 <tittle>square and cube</tittle>
@@ -75,7 +75,7 @@ alert(str);
 </body>
 </html>
 
-4:-
+4:-SUM OF N NATURAL NUMBERS
 <html>
 <head>
 <tittle>
@@ -97,7 +97,7 @@ alert(sum_n)
 </body>
 </html>
 
-5:-
+5:-FACTORIAL
 <html>
 <head>
 <tittle>javascript</tittle>
@@ -119,7 +119,7 @@ alert(factorial(n));
 </body>
 </html>
 
-6:-
+6:-FIBONACCI
 <html>
 <head>
 <tittle>
